@@ -12,9 +12,9 @@ Alongside building this application, you'll also learn how to:
 
 ### Screenshot
 <div style="display: flex; flex-direction: row;">
-    <img src="assets/Screenshots/Screenshot (2).png" alt="Screenshot 2" width="300" />
-    <img src="assets/Screenshots/Screenshot (3).png" alt="Screenshot 3" width="300" />
-    <img src="assets/Screenshots/Screenshot (4).png" alt="Screenshot 4" width="300" />
+    <img src="assets/Screenshots/Screenshot (2).png" alt="Screenshot 2" width="250" />
+    <img src="assets/Screenshots/Screenshot (3).png" alt="Screenshot 3" width="250" />
+    <img src="assets/Screenshots/Screenshot (4).png" alt="Screenshot 4" width="250" />
 </div>
 
 using the third party software api (rapidapi)
