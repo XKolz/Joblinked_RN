@@ -13,7 +13,7 @@ Alongside building this application, you'll also learn how to:
 ### Screenshot
 
 ![Assets](<assets/Screenshots/Screenshot (2).png>)
-![Assets](<assets/Screenshots/Screenshot (3).png>)
+![Assets](<assets/Screenshots/Screenshot (3).png>)![Assets](<assets/Screenshots/Screenshot (4).png>)
 
 using the third party software api (rapidapi)
 endpoint:`https://jsearch.p.rapidapi.com`
