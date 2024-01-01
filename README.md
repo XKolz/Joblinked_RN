@@ -10,7 +10,7 @@ Alongside building this application, you'll also learn how to:
 - write clean, organized, and maintainable code with proper architecture
 - follow the best practices for React Native development
 
-### Screenshot
+## Screenshot
 <div style="display: flex; flex-direction: row;">
     <img src="assets/Screenshots/Screenshot (2).png" alt="Screenshot 2" width="250" />
     <img src="assets/Screenshots/Screenshot (3).png" alt="Screenshot 3" width="250" />
