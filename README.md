@@ -1,6 +1,6 @@
 Under-construction for now
 ## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
+This applicaton is used for finding jobs, and making your dreams a reality.
 
 Alongside building this application, you'll also learn how to:
 - develop visually appealing UI/UX designs
@@ -13,6 +13,7 @@ Alongside building this application, you'll also learn how to:
 ### Screenshot
 
 ![Assets](<assets/Screenshots/Screenshot (2).png>)
+![Assets](<assets/Screenshots/Screenshot (3).png>)
 
 using the third party software api (rapidapi)
 endpoint:`https://jsearch.p.rapidapi.com`
